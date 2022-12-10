@@ -14,7 +14,7 @@ export function Header() {
             </form>
           </div>
           <div className={styles.imgBanner}>
-            <img src="src\assets\mulher-capoeira.png" alt="desenho de uma mulher preta, obra do artista Patreon" />
+            <img src="./src/assets/mulher-capoeira.png" alt="desenho de uma mulher preta, obra do artista Patreon" />
           </div>
         </header>
     )
