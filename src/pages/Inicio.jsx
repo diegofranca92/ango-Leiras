@@ -1,7 +1,13 @@
 import { Header } from '../components/Header'
+import { Card } from '../components/Card'
 
 export function Inicio() {
     return(
-        <Header/>
+      <div>
+        <Header />
+        <Card />
+        <Card />
+        <Card />
+      </div>
     )
 }
