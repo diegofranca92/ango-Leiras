@@ -1,5 +1,7 @@
+import { Header } from '../components/Header'
+
 export function Inicio() {
     return(
-        <h1>Inicio</h1>
+        <Header/>
     )
 }
