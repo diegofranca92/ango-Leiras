@@ -5,7 +5,7 @@ import styles from '../styles/components/menu.module.css'
 export function Menu() {
     return(
       <div className={styles.menuConteiner}>
-        <span>Logo</span>
+        <img src="./src/assets/logo.png" alt="" />
         <ul>
           <li>
             <Link to="/">Inicio</Link>   
