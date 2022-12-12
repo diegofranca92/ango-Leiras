@@ -1,4 +1,5 @@
 import styles from '../styles/components/header.module.css'
+import imgBanner from '../assets/mulher-capoeira.png'
 
 export function Header() {
     return(
@@ -14,7 +15,7 @@ export function Header() {
             </form>
           </div>
           <div className={styles.imgBanner}>
-            <img src="./src/assets/mulher-capoeira.png" alt="desenho de uma mulher preta, obra do artista Patreon" />
+            <img src={imgBanner} alt="desenho de uma mulher preta, obra do artista Patreon" />
           </div>
         </header>
     )
