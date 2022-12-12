@@ -1,12 +1,16 @@
 import styles from '../styles/components/card.module.css'
 
-export function Card() {
+export function Card(props) {
     return(
         <div className={styles.card}>
-            <img src="./src/assets/grupo-capoeira.jpg" alt="" />
+            <img src={props.capa} alt="" />
             <div className={styles.cardConteudo}>
-             <h3>Grupo de Capoeira</h3>
-             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur, doloribus veniam perferendis repellendus dolores natus vero, maiores ad, porro </p>
+             <h3>{props.nome}</h3>
+             <p>
+                Responsável: 
+                <strong> {props.responsavel}</strong>
+             </p>
+             <p>{props.local}</p>
              <button>Conhecer</button>
             </div>
         </div>
