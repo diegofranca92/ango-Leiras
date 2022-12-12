@@ -23,7 +23,7 @@
     font-size: 12px;
 }
 
-.card button{
+.card a{
     background: #f2da06;
     border: none;
     padding: 8px;

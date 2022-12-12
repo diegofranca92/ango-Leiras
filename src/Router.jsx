@@ -13,7 +13,7 @@ export function ApplicationRoutes() {
         <Routes>
             <Route path='/' element={<Inicio/>}/>
             <Route path='/capoeira' element={<Capoeira/>}/>
-            <Route path='grupo' element={<Grupo/>}/>
+            <Route path='grupo/:id' element={<Grupo/>}/>
         </Routes>
       </BrowserRouter>
     )

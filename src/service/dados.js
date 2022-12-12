@@ -26,7 +26,7 @@ export const dados = [
   },
   {
     id:3,
-    nome: 'Tribo de anjola',
+    nome: 'Tribo de angola',
     responsavel: 'Mestre Aranha',
     capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t31.18172-8/55497_106891136049473_6545849_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWsTLphoorwwUkm63am_lttHlohOi9tdC0eWiE6L210PlXbiG9fTIe56FnBzxISXzotsBFUGM7a1M2olvEY0YR&_nc_ohc=AqUJd4aVBKAAX8LyT7r&_nc_ht=scontent.fssa15-1.fna&oh=00_AfBFtZhr3F8ke_owFIMV3GL2Es6AvGArWS1kbRtQDU89EQ&oe=63BEBAEB',
     contato: '(71)98895-6959',

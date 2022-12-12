@@ -1,0 +1,48 @@
+.conteiner{
+  background: rgb(231, 230, 227);
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.conteiner img{
+  width: 80%;
+  margin: auto;
+  height: 30rem;
+  
+}
+
+.blocoDescricao{
+  display: flex;
+  padding: 80px;
+  gap: 100px;
+}
+
+.cardDescricao{
+  width: 60%;
+  
+}
+
+.cardDescricao h1{
+  margin: 60px;
+}
+
+.cardLateral{
+  max-width: 40%;
+  border-radius: 10px;
+  background: rgb(198, 197, 193);
+  padding: 20px;
+}
+
+.cardLateral h2{
+  margin: 30px;
+}
+
+.cardLateral button{
+  border: 0;
+  border-radius: 8px;
+  margin-top: 150px;
+  margin-left: 100px;
+  padding: 8px;
+  background: #f2da06;
+}

@@ -1,4 +1,5 @@
 import styles from '../styles/components/card.module.css'
+import { Link } from 'react-router-dom'
 
 export function Card(props) {
     return(
@@ -11,7 +12,7 @@ export function Card(props) {
                 <strong> {props.responsavel}</strong>
              </p>
              <p>{props.local}</p>
-             <button>Conhecer</button>
+             <Link to={`grupo/${props.link}`}>Conhecer</Link>
             </div>
         </div>
     )

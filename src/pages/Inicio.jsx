@@ -4,6 +4,7 @@ import styles from '../styles/pages/inicio.module.css'
 import { dados } from '../service/dados';
 
 
+
 export function Inicio() {
     return(
       <div>
@@ -11,7 +12,7 @@ export function Inicio() {
         <section className={styles.listaCards}>
        {
          dados.map((grupo) => (
-          <Card nome={grupo.nome} local={grupo.local} responsavel={grupo.responsavel} capa={grupo.capa}/>
+          <Card link={grupo.id} nome={grupo.nome} local={grupo.local} responsavel={grupo.responsavel} capa={grupo.capa}/>
         ))
        }
   
