@@ -2,6 +2,7 @@
     border-radius: 8px;
     width: 240px;
     box-shadow: 1px 1px 8px 0px rgb(0 0 0 / 75%);
+    position: relative;
 }
 
 .cardConteudo{
@@ -21,12 +22,22 @@
 
 .card p{
     font-size: 12px;
+    margin-bottom: 8px;
 }
 
 .card a{
     background: #f2da06;
     border: none;
+    font-size: 12px;
     padding: 8px;
     margin-top: 12px;
     border-radius: 8px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+.card a:hover{
+    background: #dec90d;
 }

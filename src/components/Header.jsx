@@ -1,5 +1,5 @@
 import styles from '../styles/components/header.module.css'
-import imgBanner from '../assets/mulher-capoeira.png'
+import imgBanner from '../assets/banner.png'
 
 export function Header() {
     return(

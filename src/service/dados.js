@@ -9,8 +9,7 @@ export const dados = [
     local: 'Mercado São Miguel',
     tipo: 'sede',
     roda: 'Sabado',
-    horarios: 'Das 16:00 às 19:00'
-
+    horarios: 'Das 16:00 às 19:00',
   },
   {
     id: 2,
@@ -34,8 +33,7 @@ export const dados = [
     local: 'Forte do Barbalho',
     tipo: ' sede',
     treinos: 'Seg, Ter, Qua, Qui',
-    horarios: ' Das 14:00 às 16:00 e das 09:00 às 12:00'
-    
+    horarios: ' Das 14:00 às 16:00 e das 09:00 às 12:00',
   },
   {
     id: 4,
@@ -47,8 +45,7 @@ export const dados = [
     local: 'Mercado São Miguel',
     tipo: 'sede',
     roda: 'Sabado',
-    horarios: 'Das 16:00 às 19:00'
-
+    horarios: 'Das 16:00 às 19:00',
   },
   {
     id: 5,
@@ -72,8 +69,7 @@ export const dados = [
     local: 'Forte do Barbalho',
     tipo: ' sede',
     treinos: 'Seg, Ter, Qua, Qui',
-    horarios: ' Das 14:00 às 16:00 e das 09:00 às 12:00'
-    
+    horarios: ' Das 14:00 às 16:00 e das 09:00 às 12:00',
   },
   {
     id: 7,
@@ -97,8 +93,7 @@ export const dados = [
     local: 'Mercado São Miguel',
     tipo: 'sede',
     roda: 'Sabado',
-    horarios: 'Das 16:00 às 19:00'
-
+    horarios: 'Das 16:00 às 19:00',
   },
   {
     id: 9,
@@ -122,8 +117,7 @@ export const dados = [
     local: 'Forte do Barbalho',
     tipo: ' sede',
     treinos: 'Seg, Ter, Qua, Qui',
-    horarios: ' Das 14:00 às 16:00 e das 09:00 às 12:00'
-    
+    horarios: ' Das 14:00 às 16:00 e das 09:00 às 12:00',
   },
   {
     id: 11,
@@ -147,8 +141,5 @@ export const dados = [
     local: 'Mercado São Miguel',
     tipo: 'sede',
     roda: 'Sabado',
-    horarios: 'Das 16:00 às 19:00'
-
-  },
-
-]
+    horarios: 'Das 16:00 às 19:00',
+  }];
