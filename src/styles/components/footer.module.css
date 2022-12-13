@@ -1,0 +1,15 @@
+.footerEstilo{
+  padding: 25px;
+  background: #f2da06;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 8px;
+
+}
+
+.footerImg img{
+  margin: 8px;
+  width: 20px;
+  height: 20px;
+}
