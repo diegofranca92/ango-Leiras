@@ -12,7 +12,7 @@ export function Inicio() {
         <section className={styles.listaCards}>
        {
          dados.map((grupo) => (
-          <Card link={grupo.id} nome={grupo.nome} local={grupo.local} responsavel={grupo.responsavel} capa={grupo.capa}/>
+          <Card key={grupo.id} link={grupo.id} nome={grupo.nome} local={grupo.local} responsavel={grupo.responsavel} capa={grupo.capa}/>
         ))
        }
   
