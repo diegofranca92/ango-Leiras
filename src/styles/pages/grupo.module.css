@@ -5,7 +5,7 @@
   
 }
 
-.conteiner img{
+.imgPrincipal{
   width: 80%;
   margin: auto;
   height: 30rem;
@@ -25,6 +25,28 @@
 
 .cardDescricao h1{
   margin: 60px;
+}
+
+.containerFirura{
+  display: flex;
+  margin: 40px;
+}
+
+.grupoFigura{
+  width: 221px;
+  height: 190px;
+  padding: 14px;
+}
+
+.grupoFiguras{
+  width: 267px;
+  height: 150px;
+}
+
+.grupoFigu{
+  width: 200px;
+  height: 200px;
+  padding: 2px;
 }
 
 .cardLateral{
