@@ -14,7 +14,7 @@ export const dados = [
   },
   {
     id: 2,
-    nome: 'Reliquia espinha remoso',
+    nome: 'Reliquia espinho remoso',
     capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=oDOu_KrjJwgAX_ID930&_nc_ht=scontent.fssa15-1.fna&oh=00_AfB95gnjuCTy-DR15eIIB5RlqGkAN5qPO_9twMSf3U-4vA&oe=639BA6B5',
     responsavel: 'treinel Lucas',
     contato: '(71)99102-4430',
@@ -53,7 +53,7 @@ export const dados = [
   },
   {
     id: 5,
-    nome: 'Reliquia espinha remoso',
+    nome: 'Reliquia espinho remoso',
     capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=oDOu_KrjJwgAX_ID930&_nc_ht=scontent.fssa15-1.fna&oh=00_AfB95gnjuCTy-DR15eIIB5RlqGkAN5qPO_9twMSf3U-4vA&oe=639BA6B5',
     responsavel: 'treinel Lucas',
     contato: '(71)99102-4430',
@@ -66,7 +66,7 @@ export const dados = [
   },
   {
     id: 6,
-    nome: 'Tribo de anjola',
+    nome: 'Tribo de angola',
     responsavel: 'Mestre Aranha',
     capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t31.18172-8/55497_106891136049473_6545849_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWsTLphoorwwUkm63am_lttHlohOi9tdC0eWiE6L210PlXbiG9fTIe56FnBzxISXzotsBFUGM7a1M2olvEY0YR&_nc_ohc=AqUJd4aVBKAAX8LyT7r&_nc_ht=scontent.fssa15-1.fna&oh=00_AfBFtZhr3F8ke_owFIMV3GL2Es6AvGArWS1kbRtQDU89EQ&oe=63BEBAEB',
     contato: '(71)98895-6959',
@@ -79,7 +79,7 @@ export const dados = [
   },
   {
     id: 7,
-    nome: 'Reliquia espinha remoso',
+    nome: 'Reliquia espinho remoso',
     capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=oDOu_KrjJwgAX_ID930&_nc_ht=scontent.fssa15-1.fna&oh=00_AfB95gnjuCTy-DR15eIIB5RlqGkAN5qPO_9twMSf3U-4vA&oe=639BA6B5',
     responsavel: 'treinel Lucas',
     contato: '(71)99102-4430',
@@ -105,7 +105,7 @@ export const dados = [
   },
   {
     id: 9,
-    nome: 'Reliquia espinha remoso',
+    nome: 'Reliquia espinho remoso',
     capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=oDOu_KrjJwgAX_ID930&_nc_ht=scontent.fssa15-1.fna&oh=00_AfB95gnjuCTy-DR15eIIB5RlqGkAN5qPO_9twMSf3U-4vA&oe=639BA6B5',
     responsavel: 'treinel Lucas',
     contato: '(71)99102-4430',
@@ -118,7 +118,7 @@ export const dados = [
   },
   {
     id: 10,
-    nome: 'Tribo de anjola',
+    nome: 'Tribo de angola',
     responsavel: 'Mestre Aranha',
     capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t31.18172-8/55497_106891136049473_6545849_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWsTLphoorwwUkm63am_lttHlohOi9tdC0eWiE6L210PlXbiG9fTIe56FnBzxISXzotsBFUGM7a1M2olvEY0YR&_nc_ohc=AqUJd4aVBKAAX8LyT7r&_nc_ht=scontent.fssa15-1.fna&oh=00_AfBFtZhr3F8ke_owFIMV3GL2Es6AvGArWS1kbRtQDU89EQ&oe=63BEBAEB',
     contato: '(71)98895-6959',
@@ -131,7 +131,7 @@ export const dados = [
   },
   {
     id: 11,
-    nome: 'Reliquia espinha remoso',
+    nome: 'Reliquia espinho remoso',
     capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=oDOu_KrjJwgAX_ID930&_nc_ht=scontent.fssa15-1.fna&oh=00_AfB95gnjuCTy-DR15eIIB5RlqGkAN5qPO_9twMSf3U-4vA&oe=639BA6B5',
     responsavel: 'treinel Lucas',
     contato: '(71)99102-4430',
