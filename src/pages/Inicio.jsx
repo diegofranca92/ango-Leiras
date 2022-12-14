@@ -60,7 +60,7 @@ export function Inicio() {
         <header className={styles.headerConteiner}>
           <div className={styles.infoBanner}>
              <h1>Angoleiras</h1>
-             <p>Lorem ipsum dolor sit amet consectetur fhtjy cbfjt dgrhtjyhfhd fhtj6j6th rfrhg5ry5ereg sgrjhthr greh db cbgfjyt adipisicing elit. Accusamus et voluptatum deserunt delectus rem voluptas, eos tempora, molestiae deleniti quaerat dicta volupta</p>
+             <p>Olá, sejá muito bem vinda! <br />fique a vontade para conhecer nossa pagina. <br />Nosso site tem o objetivo de te ajudar a encontrar a academia de capoeira angola mas próximo de você. Aqui você também irá conhecer mais sobre a nossa capoeira, sua história, e seu papel social, cultural e artístico, dentro na nossa sociedade. <br />Assim como também, ajudar a dar mais visibilidade a esses grupos.</p>
             <form>
                 <p> <strong> Onde está procurando o grupo ? </strong> </p>
                 
