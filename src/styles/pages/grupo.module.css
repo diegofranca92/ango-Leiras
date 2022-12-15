@@ -1,36 +1,31 @@
 .conteiner{
-  background: rgb(231, 230, 227);
-  display: flex;
-  flex-wrap: wrap;
-  
+  background: rgb(231, 230, 227);  
 }
 
 .imgPrincipal{
   width: 80%;
   margin: auto;
   height: 30rem;
-  
+  display: block;
+  margin-bottom: 90px;
 }
 
 .blocoDescricao{
   display: flex;
-  padding: 80px;
-  gap: 100px;
-  
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 60px;
+  margin-bottom: 120px;
 }
 
 .cardDescricao{
   width: 60%;
-  
-}
-
-.cardDescricao h1{
-  margin: 60px;
 }
 
 .containerFirura{
   display: flex;
-  margin: 40px;
+  flex-wrap: wrap;
+  margin-top: 40px;
 }
 
 .grupoFigura{
@@ -51,7 +46,6 @@
 }
 
 .cardLateral{
-  max-width: 40%;
   border-radius: 10px;
   background: rgb(198, 197, 193);
   padding: 20px;
@@ -65,7 +59,28 @@
   border: 0;
   border-radius: 8px;
   margin-top: 150px;
-  margin-left: 100px;
   padding: 8px;
   background: #f2da06;
+}
+
+.cardLateral div {
+  text-align: center;
+}
+
+@media (max-width: 991.98px) {
+  .cardLateral{
+    width: 100%;
+  }
+  .cardDescricao{
+    width: 100%;
+  }
+  .imgPrincipal{
+    width: 100%;
+  }
+  .conteiner{
+    padding: 0;
+  }
+  .containerFirura{
+    justify-content: center;
+  }
 }

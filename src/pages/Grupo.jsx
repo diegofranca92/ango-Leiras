@@ -61,7 +61,9 @@ export function Grupo() {
           <strong> {grupo.horarios}</strong>
          </p>
         
-         <button>Como Chegar</button>
+         <div>
+          <button>Como Chegar</button>
+         </div>
        </div>
       </div>
     </main>
