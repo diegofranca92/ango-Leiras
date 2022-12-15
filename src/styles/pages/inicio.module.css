@@ -1,6 +1,5 @@
 .listaCards{
     display: flex;
-    justify-content: space-between;
     gap: 40px;
     flex-wrap: wrap;
     padding: 60px;
@@ -13,6 +12,12 @@
     height: 30rem;
     gap: 60px;
     flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.headerConteiner h1 {
+    margin: 0;
 }
 
 .infoBanner{
@@ -22,15 +27,36 @@
     flex-direction: column;
     justify-content: space-between;
     max-height: 100%;
+    gap: 40px;
 }
 
 .imgBanner img{
    width: 430px;
-   margin-left: 50px;
 }
 
 form select{
     padding: 8px;
     border-radius: 8px;
     margin-top: 8px;
+}
+
+@media (max-width: 991.98px) { 
+    .infoBanner{
+        width: 100%;
+        order: 2;
+    }
+
+    .headerConteiner{
+        height: 100%;
+        justify-content: center;
+    }
+
+    .imgBanner img{
+        width: 350px;
+        margin: auto;
+    }
+
+    .listaCards .card {
+        width: 100% !important;
+    }
 }
