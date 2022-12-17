@@ -24,3 +24,5 @@ O site possui um select, onde a usuária vai conseguir visualizar o grupo de ang
 Inicialmente só existem 3 grupos cadastrados no json, localizados na cidade de Salvador.
 quando clica no botão "conhecer", a usuária será direcionada para a página do grupo onde
 terá as demais informações sobre.
+
+> Utilizei o Vercel para hospedar o projeto, no link: https://angoleiras.vercel.app/
