@@ -49,16 +49,33 @@
   border-radius: 10px;
   background: rgb(198, 197, 193);
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .cardLateral h2{
   margin: 30px;
 }
 
-.cardLateral button{
+.buttonFoto{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  gap: 12px;
+  align-items: center;
+
+}
+
+.buttonFoto img{
+  width: 45px;
+}
+
+.cardLateral a{
+  text-decoration: none;
   border: 0;
+  color: black;
   border-radius: 8px;
-  margin-top: 150px;
   padding: 8px;
   background: #f2da06;
 }

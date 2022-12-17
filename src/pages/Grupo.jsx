@@ -5,6 +5,7 @@ import  figura  from '../assets/angola7.png'
 import { useParams } from 'react-router-dom';
 import { dados } from '../service/dados';
 import { useState, useEffect } from 'react';
+import  whats  from '../assets/whats.svg'
 
 export function Grupo() {
 
@@ -61,8 +62,11 @@ export function Grupo() {
           <strong> {grupo.horarios}</strong>
          </p>
         
-         <div>
-          <button>Como Chegar</button>
+         <div className={styles.buttonFoto}>
+          <a href={grupo.localizacao} target='_blank'>Como Chegar</a>
+          <a href={`https://api.whatsapp.com/send?phone=55${grupo.contato}`} target='_blank'>
+           <img src={whats} alt="" />
+          </a>
          </div>
        </div>
       </div>
