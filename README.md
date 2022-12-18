@@ -26,3 +26,6 @@ quando clica no botão "conhecer", a usuária será direcionada para a página d
 terá as demais informações sobre.
 
 > Utilizei o Vercel para hospedar o projeto, no link: https://angoleiras.vercel.app/
+
+### Logo abaixo um video de como está o site atualmente.
+[Angoleiras.webm](https://user-images.githubusercontent.com/87040904/208307673-874785f3-a079-4c75-a90f-ef824f4971fa.webm)
