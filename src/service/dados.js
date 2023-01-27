@@ -2,7 +2,7 @@ export const dados = [
   {
     id: 1,
     nome: 'Reliquia espinho remoso',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/261636027_5352762431405391_2830989155875546957_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHyXM-c29KxnzrWbSKTGFGc9kvevGyn1Gr2S968bKfUanktkwmNmFjc2dQDE2QQ-D7e59MYEF4qf4Is3YratUkr&_nc_ohc=OmBESm7tAUUAX_icAcP&_nc_ht=scontent.fssa15-1.fna&oh=00_AfAmaZRlYQMsPq76r9jC-Yax1pMVlRbd-wwq2vmtUMsMgg&oe=63A3077E',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/261636027_5352762431405391_2830989155875546957_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHyXM-c29KxnzrWbSKTGFGc9kvevGyn1Gr2S968bKfUanktkwmNmFjc2dQDE2QQ-D7e59MYEF4qf4Is3YratUkr&_nc_ohc=-WcW3mk3CPYAX_ITveL&_nc_ht=scontent.fssa15-1.fna&oh=00_AfAhQ7W2gOydmMxTqcUgk0SgTAcg48s9-8mrq-mJPz-zfQ&oe=63D86C3E',
     responsavel: 'Zé do lenço',
     contato: '71991589273',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
@@ -16,7 +16,7 @@ export const dados = [
   {
     id: 2,
     nome: 'Reliquia espinho remoso',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=aI40MuIALSsAX8uyInO&_nc_ht=scontent.fssa15-1.fna&oh=00_AfCsUWUN002D4V6cpbTHUm9R8fhfqe9IP6Y_WZaIc4ChwA&oe=63A38FB5',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=BvhU2xGOpIMAX--qE5n&_nc_ht=scontent.fssa15-1.fna&oh=00_AfDWbHXmi410xb__vVFbDn_ko_oW42-P-TIFi3qCgAGt9A&oe=63D8F475',
     responsavel: 'treinel Lucas(Gato manso)',
     contato: '71991024430',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
@@ -31,7 +31,7 @@ export const dados = [
     id:3,
     nome: 'Tribo de angola',
     responsavel: 'Mestre Aranha',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t31.18172-8/55497_106891136049473_6545849_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWsTLphoorwwUkm63am_lttHlohOi9tdC0eWiE6L210PlXbiG9fTIe56FnBzxISXzotsBFUGM7a1M2olvEY0YR&_nc_ohc=AqUJd4aVBKAAX8LyT7r&_nc_ht=scontent.fssa15-1.fna&oh=00_AfBFtZhr3F8ke_owFIMV3GL2Es6AvGArWS1kbRtQDU89EQ&oe=63BEBAEB',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t31.18172-8/55497_106891136049473_6545849_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWsTLphoorwwUkm63am_lttHlohOi9tdC0eWiE6L210PlXbiG9fTIe56FnBzxISXzotsBFUGM7a1M2olvEY0YR&_nc_ohc=O27a3Gzf7CsAX_7dqrO&_nc_ht=scontent.fssa15-1.fna&oh=00_AfBosYX9yBL3j8hYOFu3SombMzGnDGorIzk8bmspjNXMHQ&oe=63FB5FEB',
     contato: '71988956959',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
     local: 'Forte do Barbalho',
@@ -44,7 +44,7 @@ export const dados = [
   {
     id: 4,
     nome: 'Reliquia espinho remoso',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/261636027_5352762431405391_2830989155875546957_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHyXM-c29KxnzrWbSKTGFGc9kvevGyn1Gr2S968bKfUanktkwmNmFjc2dQDE2QQ-D7e59MYEF4qf4Is3YratUkr&_nc_ohc=OmBESm7tAUUAX_icAcP&_nc_ht=scontent.fssa15-1.fna&oh=00_AfAmaZRlYQMsPq76r9jC-Yax1pMVlRbd-wwq2vmtUMsMgg&oe=63A3077E',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/261636027_5352762431405391_2830989155875546957_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHyXM-c29KxnzrWbSKTGFGc9kvevGyn1Gr2S968bKfUanktkwmNmFjc2dQDE2QQ-D7e59MYEF4qf4Is3YratUkr&_nc_ohc=-WcW3mk3CPYAX_ITveL&_nc_ht=scontent.fssa15-1.fna&oh=00_AfAhQ7W2gOydmMxTqcUgk0SgTAcg48s9-8mrq-mJPz-zfQ&oe=63D86C3E',
     responsavel: 'Zé do lenço',
     contato: '71991589273',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
@@ -58,7 +58,7 @@ export const dados = [
   {
     id: 5,
     nome: 'Reliquia espinho remoso',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=aI40MuIALSsAX8uyInO&_nc_ht=scontent.fssa15-1.fna&oh=00_AfCsUWUN002D4V6cpbTHUm9R8fhfqe9IP6Y_WZaIc4ChwA&oe=63A38FB5',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=BvhU2xGOpIMAX--qE5n&_nc_ht=scontent.fssa15-1.fna&oh=00_AfDWbHXmi410xb__vVFbDn_ko_oW42-P-TIFi3qCgAGt9A&oe=63D8F475',
     responsavel: 'treinel Lucas(Gato manso)',
     contato: '71991024430',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
@@ -73,7 +73,7 @@ export const dados = [
     id: 6,
     nome: 'Tribo de angola',
     responsavel: 'Mestre Aranha',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t31.18172-8/55497_106891136049473_6545849_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWsTLphoorwwUkm63am_lttHlohOi9tdC0eWiE6L210PlXbiG9fTIe56FnBzxISXzotsBFUGM7a1M2olvEY0YR&_nc_ohc=AqUJd4aVBKAAX8LyT7r&_nc_ht=scontent.fssa15-1.fna&oh=00_AfBFtZhr3F8ke_owFIMV3GL2Es6AvGArWS1kbRtQDU89EQ&oe=63BEBAEB',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t31.18172-8/55497_106891136049473_6545849_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWsTLphoorwwUkm63am_lttHlohOi9tdC0eWiE6L210PlXbiG9fTIe56FnBzxISXzotsBFUGM7a1M2olvEY0YR&_nc_ohc=O27a3Gzf7CsAX_7dqrO&_nc_ht=scontent.fssa15-1.fna&oh=00_AfBosYX9yBL3j8hYOFu3SombMzGnDGorIzk8bmspjNXMHQ&oe=63FB5FEB',
     contato: '71988956959',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
     local: 'Forte do Barbalho',
@@ -86,7 +86,7 @@ export const dados = [
   {
     id: 7,
     nome: 'Reliquia espinho remoso',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=aI40MuIALSsAX8uyInO&_nc_ht=scontent.fssa15-1.fna&oh=00_AfCsUWUN002D4V6cpbTHUm9R8fhfqe9IP6Y_WZaIc4ChwA&oe=63A38FB5',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=BvhU2xGOpIMAX--qE5n&_nc_ht=scontent.fssa15-1.fna&oh=00_AfDWbHXmi410xb__vVFbDn_ko_oW42-P-TIFi3qCgAGt9A&oe=63D8F475',
     responsavel: 'treinel Lucas(Gato manso)',
     contato: '71991024430',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
@@ -100,7 +100,7 @@ export const dados = [
   {
     id: 8,
     nome: 'Reliquia espinho remoso',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/261636027_5352762431405391_2830989155875546957_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHyXM-c29KxnzrWbSKTGFGc9kvevGyn1Gr2S968bKfUanktkwmNmFjc2dQDE2QQ-D7e59MYEF4qf4Is3YratUkr&_nc_ohc=OmBESm7tAUUAX_icAcP&_nc_ht=scontent.fssa15-1.fna&oh=00_AfAmaZRlYQMsPq76r9jC-Yax1pMVlRbd-wwq2vmtUMsMgg&oe=63A3077E',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/261636027_5352762431405391_2830989155875546957_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHyXM-c29KxnzrWbSKTGFGc9kvevGyn1Gr2S968bKfUanktkwmNmFjc2dQDE2QQ-D7e59MYEF4qf4Is3YratUkr&_nc_ohc=-WcW3mk3CPYAX_ITveL&_nc_ht=scontent.fssa15-1.fna&oh=00_AfAhQ7W2gOydmMxTqcUgk0SgTAcg48s9-8mrq-mJPz-zfQ&oe=63D86C3E',
     responsavel: 'Zé do lenço',
     contato: '71991589273',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
@@ -114,7 +114,7 @@ export const dados = [
   {
     id: 9,
     nome: 'Reliquia espinho remoso',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=aI40MuIALSsAX8uyInO&_nc_ht=scontent.fssa15-1.fna&oh=00_AfCsUWUN002D4V6cpbTHUm9R8fhfqe9IP6Y_WZaIc4ChwA&oe=63A38FB5',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=BvhU2xGOpIMAX--qE5n&_nc_ht=scontent.fssa15-1.fna&oh=00_AfDWbHXmi410xb__vVFbDn_ko_oW42-P-TIFi3qCgAGt9A&oe=63D8F475',
     responsavel: 'treinel Lucas(Gato manso)',
     contato: '71991024430',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
@@ -129,7 +129,7 @@ export const dados = [
     id: 10,
     nome: 'Tribo de angola',
     responsavel: 'Mestre Aranha',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t31.18172-8/55497_106891136049473_6545849_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWsTLphoorwwUkm63am_lttHlohOi9tdC0eWiE6L210PlXbiG9fTIe56FnBzxISXzotsBFUGM7a1M2olvEY0YR&_nc_ohc=AqUJd4aVBKAAX8LyT7r&_nc_ht=scontent.fssa15-1.fna&oh=00_AfBFtZhr3F8ke_owFIMV3GL2Es6AvGArWS1kbRtQDU89EQ&oe=63BEBAEB',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t31.18172-8/55497_106891136049473_6545849_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEWsTLphoorwwUkm63am_lttHlohOi9tdC0eWiE6L210PlXbiG9fTIe56FnBzxISXzotsBFUGM7a1M2olvEY0YR&_nc_ohc=O27a3Gzf7CsAX_7dqrO&_nc_ht=scontent.fssa15-1.fna&oh=00_AfBosYX9yBL3j8hYOFu3SombMzGnDGorIzk8bmspjNXMHQ&oe=63FB5FEB',
     contato: '71988956959',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
     local: 'Forte do Barbalho',
@@ -142,7 +142,7 @@ export const dados = [
   {
     id: 11,
     nome: 'Reliquia espinho remoso',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=aI40MuIALSsAX8uyInO&_nc_ht=scontent.fssa15-1.fna&oh=00_AfCsUWUN002D4V6cpbTHUm9R8fhfqe9IP6Y_WZaIc4ChwA&oe=63A38FB5',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/319105363_2764621877004095_7898194313997479029_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHQMubvrs9jneZ6p5RfOAh63jjt2SfoRIreOO3ZJ-hEiknH5A6W3gbG-4MSye9I4G4CUymhGn1VL1o2oN3V-6nb&_nc_ohc=BvhU2xGOpIMAX--qE5n&_nc_ht=scontent.fssa15-1.fna&oh=00_AfDWbHXmi410xb__vVFbDn_ko_oW42-P-TIFi3qCgAGt9A&oe=63D8F475',
     responsavel: 'treinel Lucas(Gato manso)',
     contato: '71991024430',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
@@ -156,7 +156,7 @@ export const dados = [
   {
     id: 12,
     nome: 'Reliquia espinho remoso',
-    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/261636027_5352762431405391_2830989155875546957_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHyXM-c29KxnzrWbSKTGFGc9kvevGyn1Gr2S968bKfUanktkwmNmFjc2dQDE2QQ-D7e59MYEF4qf4Is3YratUkr&_nc_ohc=OmBESm7tAUUAX_icAcP&_nc_ht=scontent.fssa15-1.fna&oh=00_AfAmaZRlYQMsPq76r9jC-Yax1pMVlRbd-wwq2vmtUMsMgg&oe=63A3077E',
+    capa: 'https://scontent.fssa15-1.fna.fbcdn.net/v/t39.30808-6/261636027_5352762431405391_2830989155875546957_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHyXM-c29KxnzrWbSKTGFGc9kvevGyn1Gr2S968bKfUanktkwmNmFjc2dQDE2QQ-D7e59MYEF4qf4Is3YratUkr&_nc_ohc=-WcW3mk3CPYAX_ITveL&_nc_ht=scontent.fssa15-1.fna&oh=00_AfAhQ7W2gOydmMxTqcUgk0SgTAcg48s9-8mrq-mJPz-zfQ&oe=63D86C3E',
     responsavel: 'Zé do lenço',
     contato: '71991589273',
     descricao: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, alias accusantium. Est ex illum temporibus rem sint reprehenderit iste sapiente accusantium dolor harum veritatis, sed consequuntur enim placeat. Nemo, culpa!',
